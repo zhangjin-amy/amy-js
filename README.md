@@ -1,0 +1,2 @@
+# amy-js
+learn js
